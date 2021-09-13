@@ -1,11 +1,10 @@
 ReadMe.txt
-CSCI3171 Assignment 3
 Author: Liam Osler
 Date: March 19th 2021
 
 The main method of the program is called "Main".
 
-Compilation instuctions - In the project directory, compile the Assignment 3 program using the javac command:
+Compilation instuctions - In the project directory, compile the program using the javac command:
 
 
         javac Main.java

@@ -1,6 +1,6 @@
 # ReadMe.md
-# Author: Liam Osler
-# Date: March 19th 2021
+### Author: Liam Osler
+### Date: March 19th 2021
 
 The main method of the program is called "Main".
 
